@@ -9,8 +9,8 @@
  - [Parabolica](https://www.zfrontier.com/app/flow/gpKXm9AoN5oy) 
  - [Teddy75](https://www.zfrontier.com/app/flow/gpKXm9AoN5oy)
  - [Origin65](https://www.zfrontier.com/app/flow/9wLQlpojX1Ld)
-  - [XIN65](https://www.zfrontier.com/app/flow/P6vvqxxxmRwL)
-  - [Slick TKL](https://geekhack.org/index.php?topic=123410.0)
+ - [XIN65](https://www.zfrontier.com/app/flow/P6vvqxxxmRwL)
+ - [Slick TKL](https://geekhack.org/index.php?topic=123410.0)
 
 ### Keycaps and etc. ICs
  - [MW Shark Tail](https://geekhack.org/index.php?topic=123394.0)
