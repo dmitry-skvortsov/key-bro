@@ -1,17 +1,17 @@
-#News
+# News
 
-##IC
+## IC
 
-###Keyboard ICs
+### Keyboard ICs
 
-###Keycaps and etc. ICs
+### Keycaps and etc. ICs
 
-##GBs
+## GBs
 
-###Keyboard GBs
+### Keyboard GBs
 
-###Keycaps GBs
+### Keycaps GBs
 
-##Updates
+## Updates
 
 
