@@ -17,8 +17,7 @@
  
 ## GBs
 
-### Keyboard GBs
- - [Spyder TKL](https://plywrks.com/products/spyder)
+### Keyboard GBs - [Spyder TKL](https://plywrks.com/products/spyder)
  - [MR100](https://www.zfrontier.com/app/flow/VlqWOzVqapww)
 
 ### Keycaps GBs
