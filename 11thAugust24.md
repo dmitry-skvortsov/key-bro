@@ -5,7 +5,7 @@
 ### Keyboard ICs
  - [CatX(](https://geekhack.org/index.php?topic=123434)
  - [Evo80](https://www.zfrontier.com/app/flow/NroPlYLRRJmx)
- - [Mutuotuo Alice](https://www.zfrontier.com/app/flow/EadKkjGzJNa6)
+ - [NULL Alice](https://www.zfrontier.com/app/flow/EadKkjGzJNa6), сразу [GB](https://www.zfrontier.com/app/flow/mWMr8d08pA8Y)
  - [Prism](https://geekhack.org/index.php?topic=123437.0)
 
 ### Keycaps and etc. ICs
@@ -17,6 +17,7 @@
 
 ### Keyboard GBs
  - [Lilin](https://www.kickstarter.com/projects/boyu/kbdcraft-18-lilin-20-ergo-split-mechanical-brick-keyboard)
+ - [XTIA](https://www.zfrontier.com/app/flow/Ayv09g3ZB9MP)
 ### Keycaps GBs
  - [KeyKobo Yokai](https://geekhack.org/index.php?topic=123387.msg3190787#msg3190787)
  - [GMK MTNU Dolch](https://oblotzky.industries/products/gmk-mtnu-dolch)
