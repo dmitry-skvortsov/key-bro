@@ -9,7 +9,6 @@
 - [SCC100](https://www.zfrontier.com/app/flow/XaZx0XKgY5rk)
 - [Twin](https://www.zfrontier.com/app/flow/1jEExgAXPGEG)
 - [Crush80 Reboot](https://www.zfrontier.com/app/flow/zrMyRjZKqJNA)
-- [EXO - 75%](https://geekhack.org/index.php?topic=123505.0)
 - [Vision75](https://www.zfrontier.com/app/flow/MGjYdxbxKR38)
 - [Diversity](https://www.zfrontier.com/app/flow/z39wYJWglgmd)
 
