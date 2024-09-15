@@ -10,6 +10,8 @@
 - [NOOIR-N1 R2](https://www.zfrontier.com/app/flow/zwpbkdzNPJwv)
 - [Felice](https://www.zfrontier.com/app/flow/pJ7RwddRYpQw)
 - [Yu HHKB](https://www.zfrontier.com/app/flow/Lo6pRMrybjEW)
+- [NOOIR-N1-R2](https://www.zfrontier.com/app/flow/zwpbkdzNPJwv)
+- [Navi Pad Base/Screw Plate](https://www.zfrontier.com/app/flow/6dQolLQAvrPO)
 
 ### Keycaps and etc. ICs
 - [DCS Cafe](https://geekhack.org/index.php?topic=123637.0)
