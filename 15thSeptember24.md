@@ -4,8 +4,10 @@
 
 ### Keyboard ICs
 - [Navi Buffer](https://www.zfrontier.com/app/flow/6lX870gNqPq8)
+- [Navi Pad](https://www.zfrontier.com/app/flow/6dQolLQAvrPO)
 - [Cyber girl TKL](https://www.littletokyokeebs.xyz/keyboards/cybergirltkl)
 - [RAE Adamas](https://geekhack.org/index.php?topic=123658.0)
+- [NOOIR-N1 R2](https://www.zfrontier.com/app/flow/zwpbkdzNPJwv)
 - [Felice](https://www.zfrontier.com/app/flow/pJ7RwddRYpQw)
 - [Yu HHKB](https://www.zfrontier.com/app/flow/Lo6pRMrybjEW)
 - [FUFU](https://geekhack.org/index.php?topic=123668.0)
@@ -13,6 +15,7 @@
 - [DCS Cafe](https://geekhack.org/index.php?topic=123637.0)
 - [GMK LoV](https://docs.google.com/forms/d/e/1FAIpQLSeL5k0VhOwW5jasbmG_z2KpvZVJZXyO_54I9Czukjz5HUOYMQ/viewform?pli=1)
 - [KKB Cyber girl](https://www.littletokyokeebs.xyz/keysets/cyber-girl)
+- [MTNU Selectresque](https://geekhack.org/index.php?topic=123669.0)
 
 ## GBs
 
