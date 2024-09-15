@@ -4,8 +4,10 @@
 
 ### Keyboard ICs
 - [Navi Buffer](https://www.zfrontier.com/app/flow/6lX870gNqPq8)
+- [Navi Pad](https://www.zfrontier.com/app/flow/6dQolLQAvrPO)
 - [Cyber girl TKL](https://www.littletokyokeebs.xyz/keyboards/cybergirltkl)
 - [RAE Adamas](https://geekhack.org/index.php?topic=123658.0)
+- [NOOIR-N1 R2](https://www.zfrontier.com/app/flow/zwpbkdzNPJwv)
 - [Felice](https://www.zfrontier.com/app/flow/pJ7RwddRYpQw)
 - [Yu HHKB](https://www.zfrontier.com/app/flow/Lo6pRMrybjEW)
 
@@ -24,7 +26,6 @@
 - [NEO75](https://www.zfrontier.com/app/flow/VQ6QBgbbQEAg)
 - [VOID](https://geekhack.org/index.php?topic=123482.msg3191228#msg3191228)
 ### Keycaps GBs
-- [KKB Retro mixed lights R2](https://www.zfrontier.com/app/flow/yznpyax1XqMa)
 - [FBB Mesh](https://www.zfrontier.com/app/flow/Eyrog9jpQzj5)
 ## Updates
 
