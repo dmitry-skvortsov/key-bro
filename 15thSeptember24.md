@@ -24,7 +24,6 @@
 - [#34 R2](https://www.zfrontier.com/app/flow/YEak67OndXNv)
 - [NEO75](https://www.zfrontier.com/app/flow/VQ6QBgbbQEAg)
 ### Keycaps GBs
-- [KKB Retro mixed lights R2](https://www.zfrontier.com/app/flow/yznpyax1XqMa)
 - [FBB Mesh](https://www.zfrontier.com/app/flow/Eyrog9jpQzj5)
 ## Updates
 
