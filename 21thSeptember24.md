@@ -16,6 +16,7 @@
 - [MW Stage Warrior](https://www.zfrontier.com/app/flow/VWzZ0gZ7l5Rz)
 - [GMK Modern ASCII](https://geekhack.org/index.php?topic=123678)
 - [IBM 5160](https://www.zfrontier.com/app/flow/10QbLzolqM3G)
+- [SA Grand Budapest R2](https://geekhack.org/index.php?topic=123695.0)
 ## GBs
 
 ### Keyboard GBs
