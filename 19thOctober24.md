@@ -1,5 +1,5 @@
 # News
-THOCC
+
 ## IC
 
 ### Keyboard ICs
@@ -11,7 +11,7 @@ THOCC
 
 ### Keycaps and etc. ICs
 - [GMK Selene](https://geekhack.org/index.php?topic=123814.0)
-- [KKB Bloom](https://www.zfrontier.com/app/flow/7mkkBG8Xwq3G) мне кажется или я это уже где-то видел?
+- [KKB Bloom](https://www.zfrontier.com/app/flow/7mkkBG8Xwq3G)
 - [Vertex DCS Sets](https://imgur.com/a/casT0NJ)
 
 ## GBs
