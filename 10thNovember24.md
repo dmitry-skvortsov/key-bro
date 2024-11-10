@@ -1,5 +1,5 @@
 # News
-
+- [jp meetup](https://imgur.com/a/japan-meetup-2024-nXK3KRD)
 ## IC
 
 ### Keyboard ICs
