@@ -24,6 +24,6 @@
 - [KKB Piano](https://geon.works/products/key-kobo-piano-black-all-in-one-kit)
 - [PBTfans Blush](https://www.zfrontier.com/app/flow/aB7XoNqv0RJK)
 - [GMK Protection Shell](https://www.zfrontier.com/app/flow/0V7JNYz10WnO)
-- [Armorsuit ABS anouncement(говорят у них ровные пробелы)](https://www.zfrontier.com/app/flow/ymgpmdVvkdGZ)
+- [Armorsuit ABS announcement(говорят у них ровные пробелы)](https://www.zfrontier.com/app/flow/ymgpmdVvkdGZ)
 
 ## Updates
