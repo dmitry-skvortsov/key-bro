@@ -17,8 +17,8 @@
 ### Keyboard GBs 
 - [GT-80](https://www.zfrontier.com/app/flow/qKLBXa9NWjJk)
 - [DDS Clearance sale](https://www.instagram.com/p/DCx_gyoTf9Y/?img_index=1)
-    [Ellora65](https://geekhack.org/index.php?topic=113285.0)
-    [KL-90](https://geekhack.org/index.php?topic=113285.0)
+- [Ellora65](https://geekhack.org/index.php?topic=113285.0)
+- [KL-90](https://geekhack.org/index.php?topic=113285.0)
 
 ### Keycaps and etc. GBs
 - [KKB Piano](https://geon.works/products/key-kobo-piano-black-all-in-one-kit)
