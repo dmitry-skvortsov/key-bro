@@ -20,8 +20,5 @@
 - [Manta 40](https://www.zfrontier.com/app/flow/yBMvd8aJrbBJ)
 
 ### Keycaps and etc. GBs
-- [GMK CYL BAE](https://t.me/kkkdelivery/5737)
-- [SoftKeebs by Skimo](https://t.me/SoftKeebs/12) новый вендор всякого клавиатурного в России
-- [Sexy Artsey](https://gleb.sexy/sexy-artsey)
 
 ## Updates
