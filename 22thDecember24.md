@@ -1,7 +1,6 @@
 # News
 
 ## IC
-
 ### Keyboard ICs
 - [Dream75](https://www.zfrontier.com/app/flow/ovbNrn8x8mXO)
 - [VIVID67](https://www.zfrontier.com/app/flow/9RqQGoWYxlZd)
@@ -11,8 +10,8 @@
 ### Keycaps and etc. ICs
 - [MW Laser 310](https://geekhack.org/index.php?topic=124150.msg3197638#msg3197638)
 - [DCS SMRT Colemak & Vim kits](https://geekhack.org/index.php?topic=124158.msg3197685)
-## GBs
 
+## GBs
 ### Keyboard GBs 
 - [Keycult No. 2/65](https://novelkeys.com/products/keycult-no-2-65)
 - [Lil BAE](https://sneakbox.com/products/lil-bae-macropad)
