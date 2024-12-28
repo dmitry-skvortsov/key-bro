@@ -19,6 +19,7 @@
 - [Mini cube macropad](https://www.zfrontier.com/app/flow/GPX0p0p7YRR7)
 - [OE93](https://www.zfrontier.com/app/flow/EQlryQvQd7VJ)
 - [Molly60 v2](https://www.zfrontier.com/app/flow/yZRq9BvyvBGG)
+- [Matrix Faukwaa 100NG](https://shimo.im/docs/913JMB12PmswjRAE/read)
 ### Keycaps and etc. GBs
 - [DMK Vessel](https://www.zfrontier.com/app/flow/MG0yVa8b3vJz)
 ## Updates
