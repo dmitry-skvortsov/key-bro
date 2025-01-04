@@ -6,6 +6,7 @@
 - [Z1](https://www.zfrontier.com/app/flow/L6lxM0Y78kz3)
 - [J-LAB75](https://www.zfrontier.com/app/flow/wO5QRkxZ5vJ1)
 - [mecha-z60](https://www.zfrontier.com/app/flow/NO5blYGmRPQO)
+- [Arend](https://www.zfrontier.com/app/flow/WwEOKNLzPGkY)
 ### Keycaps and etc. ICs
 - [KCH Pure Player: XY](https://geekhack.org/index.php?topic=124240.msg3198214#msg3198214)
 
