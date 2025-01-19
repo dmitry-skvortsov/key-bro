@@ -3,6 +3,7 @@
 ## IC
 
 ### Keyboard ICs
+- [NOOIR“Alita”](https://www.zfrontier.com/app/flow/bpb7bGbQZAdR)
 - [Z1](https://www.zfrontier.com/app/flow/L6lxM0Y78kz3)
 - [J-LAB75](https://www.zfrontier.com/app/flow/wO5QRkxZ5vJ1)
 - [mecha-z60](https://www.zfrontier.com/app/flow/NO5blYGmRPQO)
