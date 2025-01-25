@@ -25,6 +25,7 @@
 - [Volt Plus+](https://qwertykeys.notion.site/Volt-Plus-1503d090094280f8a14bfc4bed5a64d4)
 - [AK75](https://geekhack.org/index.php?topic=124259.msg3198332#msg3198332)
 - [ASCII-F : 65TK](https://geekhack.org/index.php?topic=124310.msg3198619#msg3198619)
+- [Glazed Beige](https://www.zfrontier.com/app/flow/p0g7r8BLr3aR)
 ### Keycaps and etc. GBs
 - [CYL Copper R2](https://novelkeys.com/collections/gmk/products/gmk-cyl-copper-r2-keycaps)
 - [MTNU Copper R2](https://novelkeys.com/collections/gmk/products/gmk-mtnu-copper-r2-keycaps)

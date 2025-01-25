@@ -11,8 +11,6 @@
 - [Valkyrie1800](https://geekhack.org/index.php?topic=124370.msg3198982#msg3198982)
 - [Manta 65%](https://www.alexotos.com/the-manta-65-info-page/)
 ### Keycaps and etc. ICs
-- thocc
-
 ## GBs
 
 ### Keyboard GBs 
