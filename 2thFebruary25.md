@@ -18,6 +18,7 @@
 - [NewRetro66v2](https://www.zfrontier.com/app/flow/lJYG8WwqEXWa)
 - [Base75 +](https://www.zfrontier.com/app/flow/WNVLBE3PKyqN)
 - [mechete](https://www.qlavier.com/product/mechete/)
+- [Keycult no.1 / 1800 Darling](https://novelkeys.com/products/keycult-no-1-1800-darling-edition-keyboard?variant=46520195940519)
 ### Keycaps and etc. GBs
 - [SA Macrodata Refinement](https://spkeyboards.com/products/sa-macrodata-refinement)
 
