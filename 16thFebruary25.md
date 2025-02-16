@@ -4,7 +4,6 @@
 
 ### Keyboard ICs
 - [Qi65](https://geekhack.org/index.php?topic=124512.msg3200068#msg3200068)
-- [iP-65](https://geekhack.org/index.php?topic=124503.msg3200027#msg3200027)
 - [RO75](https://geekhack.org/index.php?topic=124478.msg3199813#msg3199813)
 ### Keycaps and etc. ICs
 - [Astro Domes - BKE Style EC/Topre Domes](https://geekhack.org/index.php?topic=124498.msg3199964#msg3199964)
