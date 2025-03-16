@@ -14,6 +14,7 @@
 
 ### Keyboard GBs 
 - [QK Alice Duo](https://www.zfrontier.com/app/flow/OxLLb9mOjWvK)
+- [Pelican](https://github.com/kapee1/pelican)
 ### Keycaps and etc. GBs
 - [Novelkeys FFXIV](https://novelkeys.com/collections/ffxiv)
 - [Deskeys New Gen Domes](https://deskeys.io/collections/home-all-products/products/des-domes-t1?variant=40761066324003)
