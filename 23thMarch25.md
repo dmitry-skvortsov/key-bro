@@ -8,6 +8,7 @@
 - [Vish80](https://www.zfrontier.com/app/flow/5JQZR9poBRo9)
 - [OG40](https://www.zfrontier.com/app/flow/ZX9BmO5Zvlnj)
 - [RW (N)INELICE](https://docs.google.com/forms/d/e/1FAIpQLSeF9n9a5WaQmdExyrALjq-JJTtqL7I15y1nqx73tfb5zLsnbg/viewform)
+- [Otsukimi](https://t.me/laversa_kbd/792)
 ### Keycaps and etc. ICs
 - [GMK Orenji](https://geekhack.org/index.php?topic=124684.msg3201787#msg3201787)
 - [DSS 6104](https://geekhack.org/index.php?topic=124677.msg3201687#msg3201687)
