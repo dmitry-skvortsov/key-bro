@@ -11,6 +11,7 @@
 - [Class 65V3](https://geekhack.org/index.php?topic=124765.msg3202590#msg3202590) 
 ### Keycaps and etc. ICs
 - [SA Motorsport Selectric](https://geekhack.org/index.php?topic=125015.msg3203017#msg3203017)
+- [GMK CYL Nightowl](https://geekhack.org/index.php?topic=125035.msg3203122#msg3203122)
 - [GMK CYL Kitty](https://geekhack.org/index.php?topic=124766.msg3202610#msg3202610)
 ## GBs
 
