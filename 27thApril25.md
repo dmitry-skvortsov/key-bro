@@ -1,5 +1,5 @@
 # News
- - [В китае прошел крупный митап-выставка, гляньте если хотите](https://www.zfrontier.com/app/tag/6736)
+ - [Митап zFrontier](https://www.zfrontier.com/app/tag/6736)
 ## IC
 
 ### Keyboard ICs
