@@ -1,5 +1,5 @@
 # News
-
+ - [Cherry new switches](https://www.cherry.de/en-gb/company/news/press/article/cherry-leads-the-revolution-from-mechanical-to-smart-switches)
 ## IC
 
 ### Keyboard ICs
