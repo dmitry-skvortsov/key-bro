@@ -12,6 +12,7 @@
 
 ### Keyboard GBs
 - [Simple75](https://astro-keys.com/)
+- [Parabolica60](https://geekhack.org/index.php?topic=125267.0)
 ### Keycaps and etc. GBs
 - [GMK CYL BLACK SNAIL Red Cyrillic Alphas & Deskmats](https://geon.works/products/group-buy-gmk-cyl-black-snail-red-cyrillic-alphas-deskmat?variant=45908858601635)
 - [HHKB Service Station](https://www.printables.com/model/1314900-hhkb-service-station)
