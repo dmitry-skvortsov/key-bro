@@ -7,6 +7,7 @@
 - [Sebas FE x Aiglatson Studio ](https://geekhack.org/index.php?topic=125286.0)
 - [Veil65](https://www.zfrontier.com/app/flow/daXLBxEO8MPd)
 - [Buckling60](https://www.zfrontier.com/app/flow/ZWRKOXV5bLrp)
+- [STYX](https://geekhack.org/index.php?topic=125281.0)
 
 ### Keycaps and etc. ICs
 
