@@ -15,7 +15,7 @@
 ## GBs
 
 ### Keyboard GBs
-- [ГБ не было но я увидел вот эту крутую клавиатуру](https://github.com/saoto28/pineapple60s)
+- [pineapple60s](https://github.com/saoto28/pineapple60s)
 ### Keycaps and etc. GBs
 - [PBTfans Tape & Radio](https://www.zfrontier.com/app/flow/7zr9v6ar3EOE)
 - [Geon X NuxrosKB Keysnap & PCBsnap](https://nuxroskb.store/blogs/tin-tức/keysnap-pcbsnap-collaboration-with-geonworks)
