@@ -1,15 +1,16 @@
 # News
 - [MDR Dasher](https://www.kickstarter.com/projects/atomickb/mdr-dasher-keyboard-for-work-thats-mysterious-and-important)
+
 ## IC
-- [Cloudline R2](https://docs.google.com/forms/d/e/1FAIpQLSfLbEf-MjO32YL8kkwOfo5msE5u-yHXNAS3D7FQGQkYNBmh2w/viewform)
+
 ### Keyboard ICs
+- [Cloudline R2](https://docs.google.com/forms/d/e/1FAIpQLSfLbEf-MjO32YL8kkwOfo5msE5u-yHXNAS3D7FQGQkYNBmh2w/viewform)
+### Keycaps and etc. ICs
 - [GMK CYL Coniferous R2.5](https://geekhack.org/index.php?topic=125565.0)
 - [Vividkeycaps Monster](https://geekhack.org/index.php?topic=125574.0)
 - [KKB Neowell](https://geekhack.org/index.php?topic=125558.0)
-### Keycaps and etc. ICs
 
 ## GBs
-
 
 ### Keyboard GBs
 - [Curve65](https://www.zfrontier.com/app/flow/Z1o9LnQPA71p)
