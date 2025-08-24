@@ -12,9 +12,11 @@
 
 
 ### Keyboard GBs
+- [Curve65](https://www.zfrontier.com/app/flow/Z1o9LnQPA71p)
 - [Keycult no.3](https://novelkeys.com/products/keycult-no-3-tkl-ge76e7w63wrg90sf2l1of8)
 - [f1-40 722](https://geon.works/products/group-buy-f1-40-722-barebone-kit)
 - [Orca 60](https://klc-playground.com/products/gb-orca-60-by-linworks)
+- [Fossil r2](https://geekhack.org/index.php?topic=125570.msg3208436#msg3208436)
 ### Keycaps GBs
 
 
