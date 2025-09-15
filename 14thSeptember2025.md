@@ -16,6 +16,9 @@
 - [Art Deco](https://www.zfrontier.com/app/flow/j88ZGoOMQ6P6)
 - [Astelier 8/ LYRA](https://geekhack.org/index.php?topic=125687.0)
 - [Ramune60](https://geekhack.org/index.php?topic=125707.0)
+- [NOOIR Klavier II](https://www.zfrontier.com/app/flow/XozK6Aqd8zNK)
+- [ATM98](https://geekhack.org/index.php?topic=125717.0)
+- [NV-70](https://www.zfrontier.com/app/flow/oL6VbOVa6W1g)
 ### Keycaps and etc. ICs
 - [GMK Power 2048](https://geekhack.org/index.php?topic=125624.0)
 - [DSS LightCyrcle R3VIVAL](https://geekhack.org/index.php?topic=125644.0)
